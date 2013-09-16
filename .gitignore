@@ -1,0 +1,9 @@
+#Folder
+/Temp/
+/test/
+/testignore/
+
+#File
+*.docx
+
+*.tmp

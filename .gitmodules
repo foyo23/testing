@@ -1,0 +1,3 @@
+[submodule "public-libs"]
+	path = public-libs
+	url = git@greatms.com:public-libs.git
