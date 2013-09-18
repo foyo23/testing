@@ -1,0 +1,42 @@
+#include <QApplication>
+
+#define Code_Standards  100
+class CodeStandards{
+  ...
+};
+int n_mac_value, n_min_valuee;
+string s_code;
+CodeStandards  o_code;
+class CodeEditer{
+  int *p_data;
+  int *p1, n2, *p2;
+};
+for( int i=0; i<10; i++ ) { a = c; }
+if( b ) { return false; }
+struct obj_data {
+  ..
+}
+
+if( ... ) {
+  ...
+} else if( ... ) {
+  ...
+}
+switch( n ) {
+case 0:
+case 1:
+  ...
+  break;
+default:
+  ......
+  break;
+}
+for( int i; i<100; i++ ) {
+}
+
+
+ 
+
+
+
+
