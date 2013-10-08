@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/about.png</file>
+        <file>res/batchDiagnose.png</file>
+        <file>res/export.png</file>
+        <file>res/help.png</file>
+        <file>res/import.png</file>
+        <file>res/importShootResult.png</file>
+        <file>qt_zh_CN.qm</file>
+        <file>res/app.json</file>
+        <file>res/datas.json</file>
+        <file>res/devdetails.json</file>
+        <file>res/devtree.json</file>
+        <file>analyse_client_zh_CN.qm</file>
+    </qresource>
+</RCC>
